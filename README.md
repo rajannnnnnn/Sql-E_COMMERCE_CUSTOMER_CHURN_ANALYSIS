@@ -1,5 +1,5 @@
-Project Title: E-Commerce Customer Churn Analysis
-Problem Statement:
+# E-Commerce Customer Churn Analysis
+## Problem Statement:
 In the realm of e-commerce, businesses face the challenge of understanding customer
 churn patterns to ensure customer satisfaction and sustained profitability. This project
 aims to delve into the dynamics of customer churn within an e-commerce domain,
@@ -14,9 +14,9 @@ customer relationships and ensuring business viability in a competitive landscap
 Dataset Download:
 https://drive.google.com/uc?export=download&id=1iKKCze_Fpk2n_g3BIZBiSjcDFdFcEn3D
 
-Project Steps and Objectives:
-Data Cleaning:
-Handling Missing Values and Outliers:
+## Project Steps and Objectives:
+### Data Cleaning:
+#### Handling Missing Values and Outliers:
 ➢ Impute mean for the following columns, and round off to the nearest integer if
 required: WarehouseToHome, HourSpendOnApp, OrderAmountHikeFromlastYear,
 DaySinceLastOrder.
@@ -24,26 +24,26 @@ DaySinceLastOrder.
 ➢ Handle outliers in the 'WarehouseToHome' column by deleting rows where the
 values are greater than 100.
 
-Dealing with Inconsistencies:
+#### Dealing with Inconsistencies:
 ➢ Replace occurrences of “Phone” in the 'PreferredLoginDevice' column and
 “Mobile” in the 'PreferedOrderCat' column with “Mobile Phone” to ensure
 uniformity.
 ➢ Standardize payment mode values: Replace "COD" with "Cash on Delivery" and
 "CC" with "Credit Card" in the PreferredPaymentMode column.
 
-Data Transformation:
-Column Renaming:
+### Data Transformation:
+#### Column Renaming:
 ➢ Rename the column "PreferedOrderCat" to "PreferredOrderCat".
 ➢ Rename the column "HourSpendOnApp" to "HoursSpentOnApp".
-Creating New Columns:
+#### Creating New Columns:
 ➢ Create a new column named ‘ComplaintReceived’ with values "Yes" if the
 corresponding value in the ‘Complain’ is 1, and "No" otherwise.
 ➢ Create a new column named 'ChurnStatus'. Set its value to “Churned” if the
 corresponding value in the 'Churn' column is 1, else assign “Active”.
-Column Dropping:
+#### Column Dropping:
 ➢ Drop the columns "Churn" and "Complain" from the table.
 
-Data Exploration and Analysis:
+### Data Exploration and Analysis:
 1. Retrieve the count of churned and active customers from the dataset.
 2. Display the average tenure of customers who churned.
 3. Calculate the total cashback amount earned by customers who churned.
