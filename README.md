@@ -106,5 +106,5 @@ ReturnID CustomerID ReturnDate RefundAmount
 1007 54206 2023-04-21 3250
 1008 54838 2023-04-30 1990
 
-2 ) Display the return details along with the customer details of those who have
+    2 ) Display the return details along with the customer details of those who have
 churned and have made complaints.
