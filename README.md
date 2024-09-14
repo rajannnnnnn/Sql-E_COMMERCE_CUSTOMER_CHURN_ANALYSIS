@@ -19,25 +19,25 @@ https://drive.google.com/uc?export=download&id=1iKKCze_Fpk2n_g3BIZBiSjcDFdFcEn3D
 #### Handling Missing Values and Outliers:
 ➢ Impute mean for the following columns, and round off to the nearest integer if
 required: WarehouseToHome, HourSpendOnApp, OrderAmountHikeFromlastYear,
-DaySinceLastOrder.
-➢ Impute mode for the following columns: Tenure, CouponUsed, OrderCount.
+DaySinceLastOrder.<br>
+➢ Impute mode for the following columns: Tenure, CouponUsed, OrderCount.<br>
 ➢ Handle outliers in the 'WarehouseToHome' column by deleting rows where the
 values are greater than 100.
 
 #### Dealing with Inconsistencies:
 ➢ Replace occurrences of “Phone” in the 'PreferredLoginDevice' column and
 “Mobile” in the 'PreferedOrderCat' column with “Mobile Phone” to ensure
-uniformity.
+uniformity.<br>
 ➢ Standardize payment mode values: Replace "COD" with "Cash on Delivery" and
 "CC" with "Credit Card" in the PreferredPaymentMode column.
 
 ### Data Transformation:
 #### Column Renaming:
-➢ Rename the column "PreferedOrderCat" to "PreferredOrderCat".
+➢ Rename the column "PreferedOrderCat" to "PreferredOrderCat".<br>
 ➢ Rename the column "HourSpendOnApp" to "HoursSpentOnApp".
 #### Creating New Columns:
 ➢ Create a new column named ‘ComplaintReceived’ with values "Yes" if the
-corresponding value in the ‘Complain’ is 1, and "No" otherwise.
+corresponding value in the ‘Complain’ is 1, and "No" otherwise.<br>
 ➢ Create a new column named 'ChurnStatus'. Set its value to “Churned” if the
 corresponding value in the 'Churn' column is 1, else assign “Active”.
 #### Column Dropping:
