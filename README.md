@@ -11,8 +11,12 @@ ultimate objective is to equip e-commerce enterprises with actionable insights t
 implement targeted retention strategies and mitigate churn, thereby fostering long-term
 customer relationships and ensuring business viability in a competitive landscape.
 
+## Dataset Overview:
 **Dataset (provided in this repo):** _dataset.sql_ <br>
 **(OR) Download it Manually:** [Click here to download it](https://drive.google.com/uc?export=download&id=1iKKCze_Fpk2n_g3BIZBiSjcDFdFcEn3D)
+![Screenshot (194)](https://github.com/user-attachments/assets/a67d1bd6-5352-4dad-8adf-0dc7d528451c)![Screenshot (195)](https://github.com/user-attachments/assets/4600ad6e-ddab-4607-a8e9-ef74682eda64)
+
+
 
 ## Project Steps and Objectives:
 ### Data Cleaning:
