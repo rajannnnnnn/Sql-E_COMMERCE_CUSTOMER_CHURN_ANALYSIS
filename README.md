@@ -93,7 +93,8 @@ churn status breakdown for each distance category.
 29. List the customer’s order details who are married, live in City Tier-1, and their
 order counts are more than the average number of orders placed by all
 customers.
-30. * ) Create a ‘customer_returns’ table in the ‘ecomm’ database and insert the
+30.
+a) Create a ‘customer_returns’ table in the ‘ecomm’ database and insert the
 following data:
 ReturnID CustomerID ReturnDate RefundAmount
 1001 50022 2023-01-01 2130
@@ -105,5 +106,5 @@ ReturnID CustomerID ReturnDate RefundAmount
 1007 54206 2023-04-21 3250
 1008 54838 2023-04-30 1990
 
-* ) Display the return details along with the customer details of those who have
+b) Display the return details along with the customer details of those who have
 churned and have made complaints.
