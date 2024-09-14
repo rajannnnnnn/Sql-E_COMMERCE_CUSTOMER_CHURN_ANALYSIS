@@ -14,7 +14,11 @@ customer relationships and ensuring business viability in a competitive landscap
 ## Dataset Overview:
 **Dataset (provided in this repo):** _dataset.sql_ <br>
 **(OR) Download it Manually:** [Click here to download it](https://drive.google.com/uc?export=download&id=1iKKCze_Fpk2n_g3BIZBiSjcDFdFcEn3D)
-![Screenshot (194)](https://github.com/user-attachments/assets/a67d1bd6-5352-4dad-8adf-0dc7d528451c)![Screenshot (195)](https://github.com/user-attachments/assets/4600ad6e-ddab-4607-a8e9-ef74682eda64)
+
+![Screenshot (199)](https://github.com/user-attachments/assets/514501da-1ef4-4be3-9143-a6806dc8a4a0)
+
+![Screenshot (198)](https://github.com/user-attachments/assets/ad43c155-6ae9-44a5-bde3-d12a82219700)
+
 
 
 
