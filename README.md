@@ -11,8 +11,7 @@ ultimate objective is to equip e-commerce enterprises with actionable insights t
 implement targeted retention strategies and mitigate churn, thereby fostering long-term
 customer relationships and ensuring business viability in a competitive landscape.
 
-**Dataset Download:**
-https://drive.google.com/uc?export=download&id=1iKKCze_Fpk2n_g3BIZBiSjcDFdFcEn3D
+**Dataset:** dataset.sql (or) (click to download it)[https://drive.google.com/uc?export=download&id=1iKKCze_Fpk2n_g3BIZBiSjcDFdFcEn3D]
 
 ## Project Steps and Objectives:
 ### Data Cleaning:
