@@ -12,12 +12,13 @@ implement targeted retention strategies and mitigate churn, thereby fostering lo
 customer relationships and ensuring business viability in a competitive landscape.
 
 ## Dataset Overview:
+**NoOf Records:** 5630 <br>
+**NoOf Features:** 20 <br><br>
+![Screenshot (200)](https://github.com/user-attachments/assets/0dfc5542-134f-4acd-a5f4-a3bf6a85b4e2)
+![Screenshot (207)](https://github.com/user-attachments/assets/09c2deb1-b1e3-46aa-b4e0-eee30a6a828b)
+
 **Dataset (provided in this repo):** _dataset.sql_ <br>
 **(OR) Download it Manually:** [Click here to download it](https://drive.google.com/uc?export=download&id=1iKKCze_Fpk2n_g3BIZBiSjcDFdFcEn3D)
-
-![Screenshot (200)](https://github.com/user-attachments/assets/0dfc5542-134f-4acd-a5f4-a3bf6a85b4e2)
-
-![Screenshot (207)](https://github.com/user-attachments/assets/09c2deb1-b1e3-46aa-b4e0-eee30a6a828b)
 
 
 
