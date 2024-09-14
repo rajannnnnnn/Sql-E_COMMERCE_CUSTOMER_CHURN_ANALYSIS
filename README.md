@@ -94,7 +94,7 @@ churn status breakdown for each distance category.
 order counts are more than the average number of orders placed by all
 customers.
 30.
-a) Create a ‘customer_returns’ table in the ‘ecomm’ database and insert the
+    - ) Create a ‘customer_returns’ table in the ‘ecomm’ database and insert the
 following data:
 ReturnID CustomerID ReturnDate RefundAmount
 1001 50022 2023-01-01 2130
@@ -106,5 +106,5 @@ ReturnID CustomerID ReturnDate RefundAmount
 1007 54206 2023-04-21 3250
 1008 54838 2023-04-30 1990
 
-b) Display the return details along with the customer details of those who have
+- ) Display the return details along with the customer details of those who have
 churned and have made complaints.
