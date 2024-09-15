@@ -14,8 +14,10 @@ customer relationships and ensuring business viability in a competitive landscap
 ## Dataset Overview:
 **NoOf Records:** 5630 <br>
 **NoOf Features:** 20 <br><br>
-![Screenshot (200)](https://github.com/user-attachments/assets/0dfc5542-134f-4acd-a5f4-a3bf6a85b4e2)
-![Screenshot (207)](https://github.com/user-attachments/assets/09c2deb1-b1e3-46aa-b4e0-eee30a6a828b)
+![Screenshot (206)](https://github.com/user-attachments/assets/01646a54-f3a0-4478-a481-1c96c4377825)
+
+![Screenshot (207)](https://github.com/user-attachments/assets/b17e474e-134b-4748-9c7e-6451d276f506)
+
 
 **Dataset (provided in this repo):** _dataset.sql_ <br>
 **(OR) Download it Manually:** [Click here to download it](https://drive.google.com/uc?export=download&id=1iKKCze_Fpk2n_g3BIZBiSjcDFdFcEn3D)
