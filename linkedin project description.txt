@@ -1,0 +1,36 @@
+This project aims to delve into the dynamics of customer churn within an e-commerce domain, utilizing historical transactional data to uncover underlying patterns and drivers of churn.
+
+STEP-by-STEP progress of the project:
+-------------------------------------------------------------------------
+(1)  [Data souring]
+      Looking over the data and understanding it.
+      Dataset overview:
+      - 20 features
+      - 5,630 records
+      |
+      |
+(2)  [Data Cleaning]
+      - Dealing with inconsistency.
+      - Handling missing values and outliers.
+      |
+      |
+(3)  [Data Transformation]
+      - Creating new columns that simplifies other columns.
+      - To drop the old column after.
+      |
+      |
+(4)  [Exploratory Data Analysis] 
+      - Answering 30 EDA questions each in specific formats as per the needs.
+      - You can view all 30 questions in my repository, along the corresponding code.
+-----------------------------------------------------------------------------
+
+
+By this project, I had personally trained,
+- my EDA skills and gained knowledge 
+- to extract data from mySQL in different formats.
+
+Things that was most useful on this project
+- joins
+- inbuilt functions
+
+While answering EDA questions, some of the results could be attained by more than 1 ways, which clearly indicated that I was capable enough.
